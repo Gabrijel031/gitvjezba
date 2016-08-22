@@ -1,0 +1,2 @@
+# gitvjezba
+Initial commit
